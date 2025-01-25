@@ -1,0 +1,1 @@
+- small computer on a single chip. It is designed to manage specific tasks within an embedded system without requiring a complex operating system.

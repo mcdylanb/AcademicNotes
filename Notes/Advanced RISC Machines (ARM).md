@@ -1,0 +1,2 @@
+- is a family of RISC instruction set architectures (ISAs) for computer processors.
+- ARM processors are known for being energy efficient and high performing, and are often used in mobile devices and embedded systems. 

@@ -1,0 +1,1 @@
+- _An opcode is the first byte of an instruction in machine language_ which tells the hardware what operation needs to be performed with this instruction.

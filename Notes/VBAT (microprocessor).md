@@ -1,0 +1,1 @@
+- is a hardware-based power mode in a microprocessor that keeps critical operations running if the main power supply fails.

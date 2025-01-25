@@ -1,0 +1,1 @@
+- Contains a word to be stored in memory or sent to the I/O unit, or is used to receive a word from memory or from the I/O unit

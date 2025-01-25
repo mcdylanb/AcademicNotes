@@ -1,0 +1,1 @@
+- voltage that used as a reference for an analog-to-digital converter (ADC)

@@ -1,0 +1,5 @@
+- The connections that carry control information between the CPU and other devices within the computer is called Control Bus.
+- The main objective of control bus is all signals controller carried from processor to other hardware device.
+- The control bus transports orders and synchonisation signal coming from the control unit and travelling to all other hardware components
+- The Control bus is bidirectional because the data can flow in either direction from CPU to memory(or input/output device) or from memory to the CPU.
+- it also transmits response signals from the hardware.

@@ -1,0 +1,2 @@
+- a pipeline is a mechanism for inter-process communication using message passing. 
+- A pipeline is a set of processes chained together by their standard streams, so that the output text of each process (stdout) is passed directly as input (stdin) to the next one.

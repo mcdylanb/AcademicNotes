@@ -1,0 +1,4 @@
+- the information used to describe the memory locations travels along the address bus.
+- The address bus is unidirectional.
+- The address bus transports memory addresses which the processor wants to access in order to read or write data
+- The size of address bus determines how many unique memory locations can be addressed.

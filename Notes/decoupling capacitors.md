@@ -1,0 +1,1 @@
+- refers to the NRST pin and the NRST manager in a Microchip MPU (microprocessor unit)

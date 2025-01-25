@@ -1,0 +1,4 @@
+- The main objective of data bus is transfer of the data between microprocessor to input/ output devices or memory.
+- The data bus transfers instructions coming from or going to the processor.
+- The data bus is bidirectional because the data can flow in either direction from CPU to memory(or input/output device) or from memory to the CPU.
+- The size (width) of bus determines how much data can be transmitted at one time.
