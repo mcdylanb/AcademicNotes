@@ -1,4 +1,4 @@
-P = I / f
+	P = I / f
 counter only counts 100 -> 00
 Time = difference in counts x clock period = (100 -0 ) x 0.5 us = 50us
 

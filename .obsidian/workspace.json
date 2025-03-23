@@ -76,9 +76,37 @@
               "icon": "lucide-file",
               "title": "000 INDEX"
             }
+          },
+          {
+            "id": "8de9ee67ed4a678c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 INDEX.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "000 INDEX"
+            }
+          },
+          {
+            "id": "247be9272be74778",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Timer0 Module.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Timer0 Module"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -151,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/CPE 3201 EMBEDDED SYSTEMS.md",
+                "file": "000 INDEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CPE 3201 EMBEDDED SYSTEMS"
+              "title": "Backlinks for 000 INDEX"
             }
           },
           {
@@ -207,8 +235,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,36 +247,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e63307f6d5423352",
+  "active": "8de9ee67ed4a678c",
   "lastOpenFiles": [
-    "TIMERS.md",
-    "questions.md",
-    "Notes/CPE 1201 DISCRETE MATHEMATICS.md",
-    "000 INDEX.md",
-    "README.md",
-    "OSCILLOSCOPE.md",
-    "Notes/CPE 3201 EMBEDDED SYSTEMS.md",
-    "MCU Interrupts.md",
-    "Arduino Notes.md",
-    "D20250303 MON.md",
-    "D20250306 THU.md",
-    "images",
-    "Scratch.md",
-    "images/IMG_5777.jpg",
-    "Debugging Embedded Systems.md",
-    "EMBEDDED DEVELOPMENT.md",
-    "ALU NOTES.md",
-    "Notes/Control Bus.md",
-    "Notes/buses.md",
-    "Notes/CPE 3202 COMPUTER ORGANIZATION AND ARCHITECTURE.md",
-    "Notes/Control Unit (CU).md",
-    "Code Logs/CPE3201 LAB NOTES.md",
-    "Interrupt Masking.md",
-    "GIE (Global Interrupt Enable).md",
-    "microelectronic.md",
+    "Daily Journal/D20250306 THU.md",
     "meeting notes.md",
-    "Project Ideas.md",
-    "Registers.md",
+    "questions.md",
+    "000 INDEX.md",
+    "Scratch.md",
+    "Notes/Project Ideas.md",
+    "Notes/microelectronic.md",
+    "Notes/GIE (Global Interrupt Enable).md",
+    "Notes/EMBEDDED PIC16F877a HEADER.md",
+    "Notes/EMBEDDED DEVELOPMENT.md",
+    "Notes/Arduino Notes.md",
+    "Notes/CPE 3201 EMBEDDED SYSTEMS.md",
+    "Notes/OSCILLOSCOPE.md",
+    "Accumulator (AC) and Multiply/Multiplier-Quotient (MQ).md",
+    "Cheatsheet/Mathematical Notation Latex Cheatsheet.md",
+    "Code Logs/CPE3201 LAB NOTES.md",
+    "Notes/MCU Interrupts.md",
+    "Notes/Interrupt Masking.md",
+    "Notes/TIMERS.md",
+    "Notes/Timer0 Module.md",
+    "README.md",
+    "Notes/Registers.md",
+    "images/Pasted image 20250324000241.png",
+    "Notes/CPE 1201 DISCRETE MATHEMATICS.md",
+    "Daily Journal/D20250303 MON 1.md",
+    "images",
+    "images/IMG_5777.jpg",
+    "Notes/Debugging Embedded Systems.md",
+    "Notes/ALU NOTES.md",
     "Code Logs",
     "Daily Journal"
   ]

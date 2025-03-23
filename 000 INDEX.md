@@ -12,3 +12,10 @@
 
 ### Engineering
 [[microelectronic]]
+
+
+# SIDEQUESTS
+### ROBOTICS
+[[Arduino Notes]]
+### SIDE PROJECTS
+[[Project Ideas]]
