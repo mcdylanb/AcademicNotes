@@ -7,6 +7,18 @@
 	- Main Memory
 	- I/O
 	- System Interconnection
+		- provides communication among CPU, Main Memory and I/O
+	4 major structural components of the cpu
+		1. Control Unit
+			1. sequencing logic
+			2. control unit registers and decoders
+			3. control memory
+		2. ALU
+			1. perform the computers data processing functions
+		3. Registers
+			1. internal storage to the cpu
+		4. CPU Interconnection
+			1. 
 - 4 basic functions a computer can perform
 	1. data movement
 	2. control
@@ -15,6 +27,12 @@
 - Architectural design issue
 	- computer will have a multiply instruction
 - organizational Design issue
+- What are called digital computers
+	- to refer needed components 
+	- digirtal compputer
+		- is a electronic machince that accepts digitize information according to internal 
+		- relation of the operating system and processing unit
+		- OS is always in the main memory
 	
 - and waht are [[opcode (computer)]]
 
@@ -26,6 +44,81 @@ IAS SET of Registers:
 -  [[Instruction Buffer Register (IBR)]]:
 - [[Program Counter (PC)]]
 -  [[Accumulator (AC) and Multiply/Multiplier-Quotient (MQ)]]:
+
+
+# Prerequisites 
+Arithmetic 
+Methods in performing subtraction operation
+- ordinary arithmetic: direct method (Borrow)
+- Computer Arithmetic: 
+	- Radix complement
+		- 10's complement
+		- 2's complement -> invert bits + 1
+		- 8's complement
+		- 16's complement
+	- Radix - 1 complement/Diminished Complement
+		- 9's complement
+		- 1's complements -> inversion of bits
+		- 7's complements
+		- 15's complements
+- odien , adden 
+- 
+- 
+# Module 3: Control Unit
+- depending if its an single core processor or multi core processor
+- how many units are there in an 8086 architecture 
+	- Execution Unit (EU)
+		- instructions that have already been fetched by the BIU
+	- Bus Interface Unit (BIU)
+		- BIU fetches instructions, reads data from memory and I/O ports, writes data to memory and I/O ports
+- what is the role of control unit
+- What is CPU
+	- controlling element of the computer system
+	- contains the control unit
+	- all the decision done by the computer system originated in the CPU
+[[Control Unit (CU)]]
+
+## Introduction to Tracs
+TRACS
+- is an 8-bit CISC computer system developed purely for learning purposes
+
+
+Operands
+- data to be operated
+Opcode
+- operation code
+
+```
+MOV AX, 5678H;
+```
+
+Big Endian
+
+
+# Computer Buses
+- dedicated bus vs shared bus
+- finding the width of the address bus
+- Control bus 
+	- read write
+- Bus Arbitration
+- buses has
+	- synchronous
+		- with clock
+	- asynchronous
+		- no clock 
+- processor will not do anything without clock
+- modern 
+	- point to point interconnection 
+	- instead of previous "shared interconnection"
+- INtels QuickPath Interconnect
+- Computer System Architecture 
+	- Morris Mano
+
+Questions:
+Why the f are we doing segment offset?
+Why we segment to 16
+Was there existing clock in 8086
+
 
 
 ### Reviewers 
@@ -74,4 +167,22 @@ How to read datasheet
 	- central arithmetical
 - on pdf p2
 	- what are sign bit
+- preprocessor in C
 - ! important: create MOTM per meeting
+- what are basic control signals
+	- read and write
+- peripherals
+	- external items that when disconnected doesnt break the computer
+- what the fuck are half other, binary others, bcd numbers
+- What is the difference between registers and memory
+- what happens if sequential ram
+	- it will take time as youll have to start from 1
+	- how does ram work, why use ram and how to get the code , do mthey use hashmap?
+	- 
+
+
+Assignment:
+S;lide 26-47
+
+
+im gay to be honest - sometimes

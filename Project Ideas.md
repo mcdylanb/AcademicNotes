@@ -27,3 +27,8 @@
 				- Georeferenced Maps: Combine the drone data with existing high-precision georeferenced maps to cross-verify and refine measurements.
 		- cracks depth
 			- which we can allow detection from drone and notify engineers for manual checking
+
+- Ai chat history note taker, summarizer, important notes!
+- obsidian note highlighter
+	- questions
+	- 

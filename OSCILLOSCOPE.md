@@ -1,0 +1,12 @@
+- Multimeter will only showcase average
+- Display made up of a grid
+	- Horizontal - Time
+	- Vertical - Voltage
+	- Each box is called a divisions
+	- Adjusting horizontal lines sets longer or shorter period of time
+	- Vertical smaller or greater voltage scale, somewhat zooming in
+- Sign Wave
+- What are RMS
+- Positioning knobs
+	- to align up cells
+- 

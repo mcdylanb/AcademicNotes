@@ -1,0 +1,2 @@
+- turns off all interrupts
+- so that it doesnt overlap

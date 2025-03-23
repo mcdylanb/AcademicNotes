@@ -1,0 +1,34 @@
+- Concerns:
+	- focus on chunks 
+		- rental request
+		- invoice integration
+	- end goal: invoice approval
+	- when adding contract, we should have a system to update contracts
+	- 
+- Goal:
+	- chase vantage data for end goal
+	- possible issues :
+		- we would need to study business class custom java class how key alliance turns into invoice
+- Future Features:
+	- workorder communication
+		- if invoice is unpaid
+- Facts:
+	- Ameco chooses the lowest rate base on daily hourly weekly
+	- rates changes depends on On Rent and Off Rent dates
+	- John has a helper to understand the flat file ameco sends
+	
+- questions:
+	- what happens if tool being rent on other site, would we transfer the tool to the site requesting the tool?
+	- what happens when if on rent and contract price changes, do we use the price during the start of the rent or what final price after the rent
+	- what info needed on an off rent
+	- where can we get extra info like taxes and additional fees
+- Current Status:
+	- lot of black box
+	- need more info what to send vantage
+
+TODO:
+- Study how does key alliance work
+- create Tracker of request/requirements
+- compare contract, our tool list and billing list
+- benefits of on line
+- or custom application

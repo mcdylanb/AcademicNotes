@@ -1,1 +1,3 @@
 - Contains a word to be stored in memory or sent to the I/O unit, or is used to receive a word from memory or from the I/O unit
+ - take notes of where we are in the program is being executed
+	- contains the address of current address of code execute

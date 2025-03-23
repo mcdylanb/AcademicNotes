@@ -1,0 +1,1 @@
+- Interrupt masking is a technique that allows a microprocessor to ignore interrupt requests. It can be done using hardware or software. 
